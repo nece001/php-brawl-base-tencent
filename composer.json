@@ -16,6 +16,7 @@
     ],
     "require": {
         "php": ">=7.2",
+        "tencentcloud/common": "^3.0",
         "nece001/php-brawl": "^1.0"
     }
 }
