@@ -1,0 +1,21 @@
+{
+    "name": "nece001/php-brawl-base-tencent",
+    "description": "php 基础服务项目(腾讯云基类)",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nece\\Brawl\\Base\\Tencent\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nece001",
+            "email": "nece001@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "nece001/php-brawl": "^1.0"
+    }
+}
